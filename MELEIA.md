@@ -5,6 +5,7 @@
 ```bash
 python CW.py
 ```
+ou arquivo executavel se voce preferir
 ### outros
 ```
 python3 CW.py
